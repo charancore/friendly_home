@@ -5,13 +5,13 @@ Realvine is a fully responsive real estate website, <br />Responsive for all dev
 If you want to contact with me you can reach me at [➥ Live Demo](https://charancore.github.io/friendly_home/).
 
 
-### Demo Screeshots
+## Demo Screeshots
 
 ![Realvine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
 
-### Run Locally
+## Run Locally
 
 To run **Realvine** locally, run this command on your git bash:
 
@@ -27,10 +27,8 @@ Windows:
 git clone https://github.com/charancore/friendly_home.git
 ```
 
-### Contact
+## Contact
 
 If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/cherry__018/#).
 
-### License
 
-This project is **free to use** and does not contains any license.
